@@ -6,13 +6,19 @@ Python para todos es un curso introductorio a la programación en python, el cua
 Cada sesión se desarrolla a partir de un tema relevante o de actualidad. A saber:
 
 Sesión 1: Python como una súpercomputadora.
+Librerías: numpy.
 
-Sesión 2:
+Sesión 2: Visualización Avanzada.
+Librerías: pandas, matplotlib, seaborn.
 
-Sesión 3:
+Sesión 3: Python y juegos de azar.
+Librerías: 
 
-Sesión 4:
+Sesión 4: Genereación y almacenamiento de contraseñas.
+Librerías:
 
-Sesión 5:
+Sesión 5: Bitcoin.
+Librerías:
 
-Sesión 6:
+Sesión 6: Pyhton y computación cuántica.
+Librerías:

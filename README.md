@@ -9,6 +9,8 @@ Sesión 1: Python como una súpercomputadora.
 
 Librerías: numpy.
 
+<hr>
+
 Sesión 2: Visualización Avanzada.
 
 Librerías: pandas, matplotlib, seaborn, mplleaflet

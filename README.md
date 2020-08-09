@@ -45,7 +45,7 @@ Módulos: bitstring, Crypto.Hash
 
 <hr>
 
-Sesión 6: Pyhton y computación cuántica.
+Sesión 6: Python y computación cuántica.
 
 Librerías: qiskit, matplotlib
 

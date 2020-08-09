@@ -1,4 +1,4 @@
-<h1> </h1>
+<h1> Python para todos </h1>
 
 
 Python para todos es un curso introductorio a la programación en python, el cual consta de 6 sesiones, cada una de 2 horas.

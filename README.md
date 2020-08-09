@@ -17,11 +17,15 @@ Librerías: pandas, matplotlib, seaborn, mplleaflet
 
 Módulos: datetime
 
+<hr>
+
 Sesión 3: Python y juegos de azar.
 
 Librerías: random, matplotlib, numpy
 
 Módulos: time
+
+<hr>
 
 Sesión 4: Genereación y almacenamiento de contraseñas.
 
@@ -31,11 +35,15 @@ Módulos: secrets, string
 
 Métodos: bytes
 
+<hr>
+
 Sesión 5: Bitcoin.
 
 Librerías: blockchain, pycrypto, bitstring, bitcoin, blockcypher, pandas, matplotlib, seaborn
 
 Módulos: bitstring, Crypto.Hash
+
+<hr>
 
 Sesión 6: Pyhton y computación cuántica.
 

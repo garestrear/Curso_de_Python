@@ -3,7 +3,9 @@
 
 Python para todos es un curso introductorio a la programación en python, el cual consta de 6 sesiones, cada una de 2 horas.
 
-Cada sesión se desarrolla a partir de un tema relevante o de actualidad. A saber:
+Cada sesión se desarrolla a partir de un tema relevante o de actualidad. 
+
+<hr>
 
 Sesión 1: Python como una súpercomputadora.
 

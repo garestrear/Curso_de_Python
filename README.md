@@ -23,9 +23,9 @@ Módulos: datetime
 
 Sesión 3: Python y juegos de azar.
 
-Librerías: random, matplotlib, numpy
+Librerías: matplotlib, numpy
 
-Módulos: time
+Módulos: random, time
 
 <hr>
 
